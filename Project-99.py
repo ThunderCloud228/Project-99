@@ -12,3 +12,4 @@ def main():
             if seconds >= get_file_or_folder_age(root_folder):
                 remove_folder(root_folder)
 
+# Yes mam, this is the incomplete code~
